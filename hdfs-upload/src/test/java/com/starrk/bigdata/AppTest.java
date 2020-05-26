@@ -1,4 +1,4 @@
-package com.okair.bigdata;
+package com.starrk.bigdata;
 
 import static org.junit.Assert.assertTrue;
 

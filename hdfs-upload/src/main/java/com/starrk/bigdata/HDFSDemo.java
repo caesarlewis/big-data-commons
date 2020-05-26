@@ -1,4 +1,4 @@
-package com.okair.bigdata;
+package com.starrk.bigdata;
 
 import java.io.FileOutputStream;
 import java.io.InputStream;

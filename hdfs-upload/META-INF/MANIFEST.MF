@@ -22,5 +22,5 @@ Class-Path: curator-framework-2.6.0.jar commons-compress-1.4.1.jar had
  adoop-hdfs-2.6.5.jar snappy-java-1.0.4.1.jar commons-codec-1.4.jar ne
  tty-3.6.2.Final.jar jasper-runtime-5.5.23.jar xml-apis-1.3.04.jar xml
  enc-0.52.jar
-Main-Class: com.okair.bigdata.UploadFtpFileToHdfs
+Main-Class: com.starrk.bigdata.UploadFtpFileToHdfs
 
